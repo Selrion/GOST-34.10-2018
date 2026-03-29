@@ -22,6 +22,10 @@
 ```bash
 pip install gostcrypto
 ```
+или прямая установка через терминал интерпретатора(`Пример: VS Code`)
+```bash
+py -m pip install gostcrypto
+```
 
 ---
 
